@@ -8,6 +8,7 @@ The goal of this project is to perform data analytics on Uber data.
 
 - **Excel**
 - **Python**
+- **SQL**
 
 ## Data Model
 <img src="data_model.jpeg">
